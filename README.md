@@ -1,8 +1,6 @@
 # NonAFK
 [![PoggitCI](https://poggit.pmmp.io/shield.state/NonAFK)
 
-Time to sudo you!
-
 
 # Basic documentation
 ## Commands:
