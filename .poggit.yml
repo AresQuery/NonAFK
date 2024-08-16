@@ -5,4 +5,5 @@ branches:
 projects:
   NonAFK:
     path: ""
+    icon: "icon.png"
 ...
