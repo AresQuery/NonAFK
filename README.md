@@ -1,4 +1,4 @@
-# Sudo
+# NonAFK
 [![PoggitCI](https://poggit.pmmp.io/shield.state/Sudo)](https://poggit.pmmp.io/p/Sudo)
 ![GitHub](https://img.shields.io/github/license/ErikX-PMMP/Sudo)
 
@@ -16,4 +16,8 @@ Time to sudo you!
 
 | Permission    | Default       | Description                  |
 | ------------- |:-------------:| ----------------------------:|
-| nonafk.cmd.reload      |      OP       | Permission to sudo a player! |
+| nonafk.cmd.reload      |      OP       | ? |
+
+| Permission    | Default       | Description                  |
+| ------------- |:-------------:| ----------------------------:|
+| nonafk.bypass      |      OP       | ? |
