@@ -16,4 +16,4 @@ Time to sudo you!
 
 | Permission    | Default       | Description                  |
 | ------------- |:-------------:| ----------------------------:|
-| sudo.use      |      OP       | Permission to sudo a player! |
+| nonafk.cmd.reload      |      OP       | Permission to sudo a player! |
