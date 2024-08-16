@@ -1,5 +1,5 @@
-time.zone: "indonesia/jakarta"
-# Exemple : indonesia/jakarta
+time.zone: "ASIA/JAKARTA"
+# Exemple : ASIA/JAKARTA
 
 afk.time: "PT15M"
 # example : PT(Number)(Time : H/M/S)
