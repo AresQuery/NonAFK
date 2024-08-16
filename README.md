@@ -5,6 +5,7 @@
 # Basic documentation
 ## Commands:
 - /nonafk
+- /nonafkreload
 
 ## Information:
 - This Plugin Is Designed For Anti Afk
