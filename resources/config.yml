@@ -1,0 +1,12 @@
+time.zone: "indonesia/jakarta"
+# Exemple : indonesia/jakarta
+
+afk.time: "PT15M"
+# example : PT(Number)(Time : H/M/S)
+
+kick.message: "§3[§6NonAFK§3]§r §l§7» §r§cYou've run out of servers after a 15 minute AFK break!"
+
+reload.config.message: "§3[§6NonAFK§3]§r §8» §7NonAFK Reload!"
+
+
+version: "1.0.0"

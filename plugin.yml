@@ -1,0 +1,19 @@
+name: NonAFK
+version: 1.3.2
+github: https://github.com/AresQuery
+update/upgrade: AresQuery
+main: AresQuery\NonAFK\Main
+author: AresQuery
+api: 5.0.0
+
+commands:
+  nonafkreload:
+    usage: /nonafk
+    description: Plugin Created by AresQuery on Github/Poggit
+    permission: nonafk.cmd.reload
+
+permissions:
+  nonafk.cmd.reload:
+    default: op
+  nonafk.bypass:
+    default: op
