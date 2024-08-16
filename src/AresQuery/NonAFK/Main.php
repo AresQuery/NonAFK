@@ -21,7 +21,7 @@ class Main extends PluginBase implements Listener {
         $this->saveDefaultConfig();
         $this->maxAFKTime = $this->getConfig()->get("afk.time");
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
-        $this->getScheduler()->scheduleRepeatingTask(new AFKTask($this), 20);
+        $this->getScheduler()->scheduleRepeatingTask(new nonAFKTask($this), 20);
     }
 
     public function onJoin(PlayerJoinEvent $event): void {
