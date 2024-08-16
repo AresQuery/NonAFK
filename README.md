@@ -1,6 +1,5 @@
 # NonAFK
-[![PoggitCI](https://poggit.pmmp.io/shield.state/Sudo)](https://poggit.pmmp.io/p/Sudo)
-![GitHub](https://img.shields.io/github/license/ErikX-PMMP/Sudo)
+[![PoggitCI](https://poggit.pmmp.io/shield.state/NonAFK)
 
 Time to sudo you!
 
